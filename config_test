@@ -1,0 +1,22 @@
+Host Red
+    Hostname 127.0.0.1
+
+#Host Blue
+Hostname 127.0.0.1
+
+#    Host Yellow
+    Hostname 127.0.0.1
+
+Host      Purple
+    Hostname 127.0.0.1
+
+        Host orange
+    Hostname 127.0.0.1
+
+      Host White
+    Hostname 127.0.0.1
+
+Host "😎 Dark Black"
+
+Host Green
+Host Pink
